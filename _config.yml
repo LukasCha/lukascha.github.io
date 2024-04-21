@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/lukascha/"}
+  - {title: LinkedIn, icon: fa-linkedin, url: "https://www.linkedin.com/in/lukascha/"}
   - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=dDUvyf8AAAAJ&hl=en"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/lukas_cha"}
   - {title: Mail, icon: envelope, url: "mailto:lukascha0316@gmail.com"}
