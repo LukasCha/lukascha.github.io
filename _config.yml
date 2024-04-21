@@ -20,12 +20,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: LinkedIn, icon: envelope, url: "https://www.linkedin.com/in/lukascha/"}
-  - {title: Google Scholar, icon: github, url: "https://scholar.google.com/citations?user=dDUvyf8AAAAJ&hl=en"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/lukascha/"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=dDUvyf8AAAAJ&hl=en"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/lukas_cha"}
   - {title: Mail, icon: envelope, url: "mailto:lukascha0316@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/LukasCha"}
-  - {title: Youtube, icon: github, url: "https://www.youtube.com/channel/UCKXeSlaEijmvHt0DjCgbUpA"}
+  - {title: Youtube, icon: youtube, url: "https://www.youtube.com/channel/UCKXeSlaEijmvHt0DjCgbUpA"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
