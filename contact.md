@@ -28,7 +28,7 @@ title: "Contact"
   }
 
   input[type="email"], textarea {
-    width: calc(100% - 3em); /* Adjust width to be slightly smaller than form width */
+    width: calc(100% - 1em); /* Adjust width to be slightly smaller than form width */
     padding: 1em; /* Standard padding for a tactile area */
     margin-top: 0.5em;
     border: 1px solid #ccc;
