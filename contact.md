@@ -28,8 +28,8 @@ title: "Contact"
   }
 
   input[type="email"], textarea {
-    width: 100%; /* Make input fields fill the form width */
-    padding: 1em;
+    width: calc(100% - 3em); /* Adjust width to be slightly smaller than form width */
+    padding: 1em; /* Standard padding for a tactile area */
     margin-top: 0.5em;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -37,7 +37,7 @@ title: "Contact"
   }
 
   button {
-    width: 100%; /* Adjust button to fill the form width */
+    width: calc(100% - 1em); /* Slightly extended width to better align with text boxes */
     padding: 1em;
     border: none;
     border-radius: 4px;
@@ -55,6 +55,7 @@ title: "Contact"
   textarea {
     height: 150px; /* Adjusted height */
   }
+
 </style>
 
 <!-- Container for the form to center it -->
