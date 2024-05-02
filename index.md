@@ -10,6 +10,6 @@ During my Bachelor's, I researched trajectory optimisation strategies for a robo
 
 In 2023, I visited the <a href="(https://www.biomechatronicslab.co.uk/)">Biomechatronics Lab</a> (Prof. Ravi Vaidyanathan) at Imperial College London to research control strategies for a lower-limb rehabilitative exoskeleton. A paper has been accepted at ICRA2024 and will be presented in Yokohama, Japan.
 
-Currently, I am a visiting student at the <a href="(https://eng.ox.ac.uk/hbl/)">Healthcare Biorobotics Lab</a> (Prof. Liang He) at the University of Oxford as part of my Master's thesis research.
+Currently, I am a visiting student at the <a href="(https://eng.ox.ac.uk/hbl/)">Healthcare Biorobotics Lab</a> (Prof. Liang He) at the University of Oxford as part of my Master's thesis research. The research involves fabiricating a wearable soft sensor using 3D printing-based ink writing techniques, taking inspiration from recent advances in soft sensing for soft robotics.
 
 Feel free to contact me if you want to chat about research or anything in general! I'm always on the lookout for new ideas and possible collaborations.
