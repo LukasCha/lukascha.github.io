@@ -14,38 +14,38 @@ title: "Contact"
 
   form {
     background: white;
-    padding: 2em;
+    padding: 3em; /* Increased padding to create more space inside the border */
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    width: 80%; /* Maintains a wider form */
-    max-width: 600px; /* Controls maximum width for larger screens */
+    width: 60%; /* Adjust width to suit the new padding */
+    max-width: 500px; /* Adjust maximum width for aesthetic */
   }
 
   label {
     margin-bottom: 1em;
     display: block;
-    font-size: 20px; /* Increased font size for better readability */
+    font-size: 20px;
   }
 
   input[type="email"], textarea {
-    width: 100%;
-    padding: 1.5em; /* Increased padding for a bigger, more tactile area */
+    width: calc(100% - 3em); /* Adjust width to be smaller than the form width */
+    padding: 1em; /* Adjust padding for a smaller tactile area */
     margin-top: 0.5em;
     border: 1px solid #ccc;
     border-radius: 4px;
-    font-size: 18px; /* Larger font size for inside the fields */
+    font-size: 16px; /* Adjust font size */
   }
 
   button {
-    width: 100%;
-    padding: 1.5em; /* Larger padding for a bigger, more clickable button */
+    width: calc(100% - 3em); /* Adjust width to match input fields */
+    padding: 1em;
     border: none;
     border-radius: 4px;
     background-color: #007BFF;
     color: white;
     cursor: pointer;
     margin-top: 1em;
-    font-size: 18px; /* Larger font size for button text */
+    font-size: 16px;
   }
 
   button:hover {
@@ -53,20 +53,17 @@ title: "Contact"
   }
 
   textarea {
-    height: 250px; /* Increased height to allow more text */
+    height: 150px; /* Adjusted height */
   }
 
   img.wrap {
     float: left;
-    margin-right: 20px; /* Maintains space between the image and form */
-    width: 150px; /* Set width */
-    height: auto; /* Maintains aspect ratio */
+    margin-right: 20px;
+    width: 150px;
+    height: auto;
   }
 
 </style>
-
-<!-- Image positioned to float left with text wrapping around it -->
-<img src="/assets/1698182793744 (1).jpg" alt="Descriptive Text of Image" class="wrap">
 
 <!-- Container for the form to center it -->
 <div class="form-container">
