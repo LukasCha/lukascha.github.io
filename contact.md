@@ -4,13 +4,12 @@ title: "Contact"
 ---
 
 <style>
-  body {
+  /* Minimal CSS for centering the form */
+  .form-container {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
   }
 
@@ -25,6 +24,7 @@ title: "Contact"
   label {
     margin-bottom: 1em;
     display: block;
+    font-size: 16px; /* Larger font for readability */
   }
 
   input[type="email"], textarea {
@@ -33,6 +33,7 @@ title: "Contact"
     margin-top: 0.5em;
     border: 1px solid #ccc;
     border-radius: 4px;
+    font-size: 16px; /* Larger font for readability */
   }
 
   button {
@@ -44,6 +45,7 @@ title: "Contact"
     color: white;
     cursor: pointer;
     margin-top: 1em;
+    font-size: 16px; /* Larger font for readability */
   }
 
   button:hover {
@@ -51,20 +53,21 @@ title: "Contact"
   }
 
   textarea {
-    height: 100px;
+    height: 150px; /* Larger textarea for more message space */
   }
 </style>
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form action="https://formspree.io/f/mwkgynyl" method="POST">
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+<!-- Container for the form to center it -->
+<div class="form-container">
+  <form action="https://formspree.io/f/mwkgynyl" method="POST">
+    <label>
+      Your email:
+      <input type="email" name="email">
+    </label>
+    <label>
+      Your message:
+      <textarea name="message"></textarea>
+    </label>
+    <button type="submit">Send</button>
+  </form>
+</div>
