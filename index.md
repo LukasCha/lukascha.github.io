@@ -3,8 +3,15 @@ layout: default
 title: "About Me"
 ---
 
-<!-- Image positioned to float left with text wrapping around it -->
-<img src="/assets/1698182793744 (1).jpg" alt="Descriptive Text of Image" class="wrap">
+<style>
+  img {
+    transform: scale(0.5); /* Reduces the image size to 50% */
+    transform-origin: top left; /* Ensures the scaling doesn't affect the positioning */
+  }
+</style>
+
+<!-- Image with reduced size -->
+<img src="/assets/1698182793744 (1).jpg" alt="Descriptive Text of Image">
 
 
 Hi there!
