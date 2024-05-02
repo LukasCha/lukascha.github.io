@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Contact"
+title: "About Me"
 ---
 
 <style>
   img.wrap {
     float: left;
     margin-right: 20px; /* Space between the image and any adjacent text */
-    width: 75px; /* Smaller width for the image */
+    width: 500px; /* Smaller width for the image */
     height: auto; /* Maintains aspect ratio */
   }
 </style>
