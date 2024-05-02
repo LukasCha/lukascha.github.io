@@ -1,15 +1,20 @@
 ---
-layout: page
-title: "About Me"
----
-
----
 layout: default
 title: "Contact"
 ---
 
+<style>
+  img.wrap {
+    float: left;
+    margin-right: 20px; /* Space between the image and any adjacent text */
+    width: 75px; /* Smaller width for the image */
+    height: auto; /* Maintains aspect ratio */
+  }
+</style>
+
 <!-- Image positioned to float left with text wrapping around it -->
 <img src="/assets/1698182793744 (1).jpg" alt="Descriptive Text of Image" class="wrap">
+
 
 
 Hi there!
