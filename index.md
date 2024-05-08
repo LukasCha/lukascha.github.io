@@ -13,7 +13,7 @@ title: "About Me"
   .profile-photo {
     float: left; /* Positions the photo to the left */
     margin-right: 20px; /* Space between the photo and the text */
-    width: 150px; /* Adjusts the width of the photo */
+    width: 250px; /* Adjusts the width of the photo */
     height: auto; /* Keeps the aspect ratio intact */
     border-radius: 50%; /* Makes the photo circular */
     margin-bottom: 20px; /* Adds space below the photo if text is shorter than the photo */
