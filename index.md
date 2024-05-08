@@ -24,7 +24,7 @@ title: "About Me"
   <img src="/assets/1698182793744 (1).jpg" alt="Profile Photo" class="profile-photo">
   <p>Hi there!</p>
 
-  <p>I'm a final year Master's student in Mechanical Engineering at TU Munich and incoming DPhil student at the University of Oxford. My research interests include wearable technology, biomechanics, soft robotics, and the applications of controls and machine learning in biomedical engineering.</p>
+  <p>I'm a final year Master's student in Mechanical Engineering at the Technical University of Munich and an incoming DPhil student at the University of Oxford. My research interests include wearable technology, biomechanics, soft robotics, and the applications of controls and machine learning in biomedical engineering.</p>
 
   <p>During my Bachelor's, I researched trajectory optimisation strategies for a robotic manipulator, with a particular focus on orientation interpolation. Here, I contributed to a project that developed a new orientation interpolation algorithm and a <a href="https://ieeexplore.ieee.org/document/10161346">paper</a> was presented at ICRA2023 in London, UK.</p>
 
