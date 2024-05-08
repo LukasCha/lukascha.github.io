@@ -7,7 +7,7 @@ title: "Publications"
 
 ## 2024
 
-- **Accepted**: Lukas Cha, Annika Guez, Chih-yu Chen, Sion Kim, Zhenhua Yu, Bo Xiao, Ravi Vaidyanathan, *Transparency Control of a 1-DoF Knee Exoskeleton Via Human-In-The-Loop Velocity Optimisation*  
+- **Accepted**: Lukas Cha, Annika Guez, Chih-yu Chen, Sion Kim, Zhenhua Yu, Bo Xiao, Ravi Vaidyanathan, "Transparency Control of a 1-DoF Knee Exoskeleton Via Human-In-The-Loop Velocity Optimisation"
   2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan
 
 ## 2023
