@@ -32,5 +32,5 @@ title: "About Me"
 
   <p>Currently, I am a visiting student at the <a href="https://eng.ox.ac.uk/hbl/">Healthcare Biorobotics Lab</a> (Prof. Liang He) at the University of Oxford as part of my Master's thesis research. The research involves fabricating a wearable soft sensor using 3D printing-based ink writing techniques, taking inspiration from recent advances in soft sensing for soft robotics. I will continue this line of research as a DPhil student at the same lab.</p>
 
-  <p>Feel free to contact me (contact form or LinkedIn/Twitter!) if you want to chat about research or anything in general! I'm always on the lookout for new ideas and possible collaborations.</p>
+  <p>Feel free to contact me (contact form or LinkedIn/Twitter/Email!) if you want to chat about research or anything in general! I'm always on the lookout for new ideas and possible collaborations.</p>
 </div>
