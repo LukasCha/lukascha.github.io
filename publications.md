@@ -3,16 +3,6 @@ layout: default
 title: "Publications"
 ---
 
-<style>
-  .content {
-    margin: 0 auto; /* Centers the text block horizontally */
-    padding: 20px;
-    max-width: 800px; /* Adjusts the maximum width of the text block */
-  }
-</style>
-
-<div class="content">
-
 # Publications
 
 ## 2024
